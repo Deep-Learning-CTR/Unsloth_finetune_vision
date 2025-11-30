@@ -5,3 +5,6 @@ venv
 #Ignore vscode AI rules
 .github\instructions\codacy.instructions.md
 .github/instructions/codacy.instructions.md
+src/roco_test_full
+src/roco_train_full
+src/roco_validation_full
