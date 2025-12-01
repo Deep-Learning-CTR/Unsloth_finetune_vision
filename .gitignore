@@ -8,3 +8,6 @@ venv
 src/roco_test_full
 src/roco_train_full
 src/roco_validation_full
+unsloth_compiled_cache
+src/.github/instructions/codacy.instructions.md
+src/.ipynb_checkpoints/finetune-checkpoint.ipynb
