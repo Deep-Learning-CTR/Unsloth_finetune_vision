@@ -11,3 +11,6 @@ src/roco_validation_full
 unsloth_compiled_cache
 src/.github/instructions/codacy.instructions.md
 src/.ipynb_checkpoints/finetune-checkpoint.ipynb
+roco_converted_test
+roco_converted_train
+roco_converted_validation
