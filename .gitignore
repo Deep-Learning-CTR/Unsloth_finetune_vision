@@ -14,3 +14,8 @@ src/.ipynb_checkpoints/finetune-checkpoint.ipynb
 roco_converted_test
 roco_converted_train
 roco_converted_validation
+.Trash-1001
+converted_test_dataset
+converted_train_dataset
+converted_val_dataset
+outputs
